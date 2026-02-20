@@ -1,6 +1,7 @@
 tensorflow
 keras
 pandas
+matplotlib
 numpy
 jupyter
 notebook
